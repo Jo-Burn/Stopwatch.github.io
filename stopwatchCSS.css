@@ -7,6 +7,9 @@ body {
 h2 {
     font-size: 50px;
 }
+h1 {
+    font-size: 100px;
+}
 div {
     height: 100px;
     width: 120px;
